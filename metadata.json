@@ -1,0 +1,5 @@
+{
+  "name": "NanoBanana Image Transformer(고급)",
+  "description": "An advanced image editing tool that leverages the Gemini API to transform user-uploaded images based on text prompts and various style options. Users can upload a main image and an optional reference image, then apply creative modifications.",
+  "requestFramePermissions": []
+}
